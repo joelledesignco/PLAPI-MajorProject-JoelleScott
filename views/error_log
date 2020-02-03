@@ -1,0 +1,5 @@
+[20-Nov-2018 19:05:54 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) in /home/projectsharemedi/public_html/views/index.php on line 10
+[20-Nov-2018 19:06:39 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) in /home/projectsharemedi/public_html/views/index.php on line 10
+[20-Nov-2018 19:08:43 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) in /home/projectsharemedi/public_html/views/index.php on line 10
+[22-Jan-2019 17:23:32 UTC] PHP Parse error:  syntax error, unexpected '-', expecting function (T_FUNCTION) in /home/lovesharemediabo/public_html/core/db.php on line 46
+[25-Jan-2019 17:57:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lovesharemediabo/public_html/views/index.php on line 210
